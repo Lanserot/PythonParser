@@ -1,0 +1,30 @@
+.DS_Store
+
+composer.lock
+
+.idea/*
+__pycache__/*
+dist/*
+build/*
+/vendor/
+venv/*
+
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
+
+## Sublime Text cache files
+*.tmlanguage.cache
+*.spec
+*.exe
+*.ini
+*.sql
+*.zip
+sha512_sum
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+/tests/tests/
+/tests/results/
